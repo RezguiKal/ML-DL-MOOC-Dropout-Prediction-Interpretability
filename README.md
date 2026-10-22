@@ -108,8 +108,6 @@ Depending on the classes included in the committed source code, the model collec
 - Naive Bayes
 - K-Nearest Neighbors (KNN)
 - Linear Discriminant Analysis (LDA)
-- WINNOW
-- Majority-class baseline
 
 ### Ensemble learning
 
